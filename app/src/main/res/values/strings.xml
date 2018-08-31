@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Never Alone</string>
+    <string name="user_email">Enter Valid Email</string>
+    <string name="user_password">Enter your password</string>
+    <string name="button_login">Log In</string>
+    <string name="or">or</string>
+    <string name="app_main_name">Never Alone</string>
+    <string name="button_signup">Sign Up</string>
+    <string name="feed_title">Enter title</string>
+    <string name="feed_text">Enter text</string>
+    <string name="title_activity_sign_in">SignIn</string>
+    <string name="user_name">Name</string>
+</resources>
